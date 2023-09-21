@@ -1,0 +1,16 @@
+C:\Users\didem\source\repos\AlgoritmaSorulari\Soru9\bin\Debug\net5.0\Soru9.exe
+C:\Users\didem\source\repos\AlgoritmaSorulari\Soru9\bin\Debug\net5.0\Soru9.deps.json
+C:\Users\didem\source\repos\AlgoritmaSorulari\Soru9\bin\Debug\net5.0\Soru9.runtimeconfig.json
+C:\Users\didem\source\repos\AlgoritmaSorulari\Soru9\bin\Debug\net5.0\Soru9.runtimeconfig.dev.json
+C:\Users\didem\source\repos\AlgoritmaSorulari\Soru9\bin\Debug\net5.0\Soru9.dll
+C:\Users\didem\source\repos\AlgoritmaSorulari\Soru9\bin\Debug\net5.0\ref\Soru9.dll
+C:\Users\didem\source\repos\AlgoritmaSorulari\Soru9\bin\Debug\net5.0\Soru9.pdb
+C:\Users\didem\source\repos\AlgoritmaSorulari\Soru9\obj\Debug\net5.0\Soru9.csproj.AssemblyReference.cache
+C:\Users\didem\source\repos\AlgoritmaSorulari\Soru9\obj\Debug\net5.0\Soru9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didem\source\repos\AlgoritmaSorulari\Soru9\obj\Debug\net5.0\Soru9.AssemblyInfoInputs.cache
+C:\Users\didem\source\repos\AlgoritmaSorulari\Soru9\obj\Debug\net5.0\Soru9.AssemblyInfo.cs
+C:\Users\didem\source\repos\AlgoritmaSorulari\Soru9\obj\Debug\net5.0\Soru9.csproj.CoreCompileInputs.cache
+C:\Users\didem\source\repos\AlgoritmaSorulari\Soru9\obj\Debug\net5.0\Soru9.dll
+C:\Users\didem\source\repos\AlgoritmaSorulari\Soru9\obj\Debug\net5.0\ref\Soru9.dll
+C:\Users\didem\source\repos\AlgoritmaSorulari\Soru9\obj\Debug\net5.0\Soru9.pdb
+C:\Users\didem\source\repos\AlgoritmaSorulari\Soru9\obj\Debug\net5.0\Soru9.genruntimeconfig.cache
